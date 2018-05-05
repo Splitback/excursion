@@ -10,8 +10,7 @@
 .downloadlink {
   color: aquamarine;
   font-size: 16px;
-  text-align: center;
-  font-family: Verdana
+
 }
 
 .subtitle {
@@ -33,4 +32,10 @@ body {
 
 video {
   align-content: center;
+}
+
+#copyright {
+  text-align: right;
+  color: gray;
+  font-weight: normal;
 }
